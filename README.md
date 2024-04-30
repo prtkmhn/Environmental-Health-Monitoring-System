@@ -12,7 +12,7 @@ The Environmental Health Monitoring System is a real-time application designed t
  accuracy by 35%. Integrated heart rate data for precise breathing volume estimation, mapped with local air quality sensors via constant GPS
  tracking.
 - Developed a novel cigarette intake equivalent metric by analyzing air pollution data and individual breathing rates, contributing to improved
- public health research.The methodology and results are documented in a research paper available on arXiv
+ public health research.The methodology and results are documented in a research paper available on [arXiv](https://arxiv.org/abs/1907.10594)
 
 
 ### Built With 🛠️
